@@ -270,8 +270,8 @@ MIT License - Feel free to use for educational purposes
 
 ## 👤 Author
 
-[Your Name]
-[Your Email/Contact]
+Shravani Patil
+shravanipatil580@gmail.com 
 
 Assignment: NLP → DSL → Strategy Execution Prototype
 Date: December 2024
@@ -280,7 +280,7 @@ Date: December 2024
 
 ## 🙏 Acknowledgments
 
-- Assignment requirements provided by [Institution/Company]
+- Assignment requirements provided by Rotally AI
 - Built using Python, Pandas, NumPy
 - Inspired by production trading systems
 
